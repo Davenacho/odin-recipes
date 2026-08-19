@@ -1,1 +1,2 @@
 # odin-recipes
+This Project is a practice project designed to build my understanding of HTML and web development. By completing it, i will demonstrate my ability to create and structure a basic webpage, use HTML elements correctly, and apply fundamental skilss i have learned so far.
